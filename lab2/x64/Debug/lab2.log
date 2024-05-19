@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\malan\OneDrive\Рабочий стол\oop\lab2\lab2\main.cpp(24,36): warning C4311: приведение типов: усечение указателя из "Point *" в "int"
+C:\Users\malan\OneDrive\Рабочий стол\oop\lab2\lab2\main.cpp(24,36): warning C4302: приведение типов: усечение из "Point *" к "int"
+C:\Users\malan\OneDrive\Рабочий стол\oop\lab2\lab2\main.cpp(30,65): warning C4311: приведение типов: усечение указателя из "Point *" в "int"
+C:\Users\malan\OneDrive\Рабочий стол\oop\lab2\lab2\main.cpp(30,65): warning C4302: приведение типов: усечение из "Point *" к "int"
+C:\Users\malan\OneDrive\Рабочий стол\oop\lab2\lab2\main.cpp(66,37): warning C4311: приведение типов: усечение указателя из "Circle *" в "int"
+C:\Users\malan\OneDrive\Рабочий стол\oop\lab2\lab2\main.cpp(66,37): warning C4302: приведение типов: усечение из "Circle *" к "int"
+C:\Users\malan\OneDrive\Рабочий стол\oop\lab2\lab2\main.cpp(71,78): warning C4311: приведение типов: усечение указателя из "Circle *" в "int"
+C:\Users\malan\OneDrive\Рабочий стол\oop\lab2\lab2\main.cpp(71,78): warning C4302: приведение типов: усечение из "Circle *" к "int"
+C:\Users\malan\OneDrive\Рабочий стол\oop\lab2\lab2\main.cpp(126,44): warning C4311: приведение типов: усечение указателя из "PairOfCircles *" в "int"
+C:\Users\malan\OneDrive\Рабочий стол\oop\lab2\lab2\main.cpp(126,44): warning C4302: приведение типов: усечение из "PairOfCircles *" к "int"
+C:\Users\malan\OneDrive\Рабочий стол\oop\lab2\lab2\main.cpp(136,83): warning C4311: приведение типов: усечение указателя из "PairOfCircles *" в "int"
+C:\Users\malan\OneDrive\Рабочий стол\oop\lab2\lab2\main.cpp(136,83): warning C4302: приведение типов: усечение из "PairOfCircles *" к "int"
+C:\Users\malan\OneDrive\Рабочий стол\oop\lab2\lab2\main.cpp(143,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\malan\OneDrive\Рабочий стол\oop\lab2\lab2\main.cpp(158,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\malan\OneDrive\Рабочий стол\oop\lab2\lab2\main.cpp(159,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\malan\OneDrive\Рабочий стол\oop\lab2\lab2\main.cpp(160,46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\malan\OneDrive\Рабочий стол\oop\lab2\lab2\main.cpp(161,46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lab2.vcxproj -> C:\Users\malan\OneDrive\Рабочий стол\oop\lab2\x64\Debug\lab2.exe
